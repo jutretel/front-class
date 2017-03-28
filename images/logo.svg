@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-80.000000, -40.000000)" id="Jumbotron" fill="#FFFFFF">
+            <g>
+                <g id="Nav" transform="translate(80.000000, 40.000000)">
+                    <g id="Logo">
+                        <path d="M20,40 C8.954305,40 0,31.045695 0,20 C0,8.954305 8.954305,0 20,0 C31.045695,0 40,8.954305 40,20 C40,31.045695 31.045695,40 20,40 Z M14.8421735,22.3491386 L17.5738361,22.7817915 L16.2077091,31.4071776 C16.0958552,32.1133954 16.3578304,32.2332853 16.7964585,31.6521567 L25.6604279,19.9084821 C26.0948398,19.3329395 25.8740338,18.7642975 25.1578265,18.6508614 L22.4261639,18.2182085 L23.7922909,9.59282238 C23.9041448,8.88660459 23.6421696,8.76671465 23.2035415,9.34784331 L14.3395721,21.0915179 C13.9051602,21.6670605 14.1259662,22.2357025 14.8421735,22.3491386 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
